@@ -4,11 +4,15 @@ The Juncture essay is a great tool for developing digital and interactive digita
 
 In Black studies, close reading always involves a critical reimagining of the conventional or accepted ways of looking at sources, and objects of cultural and historical record. How can we use juncture to look in ways that are rooted in critical context of Black life, existence and knowlede systems around the globe? Today we will focus on developing juncture stories that incoporate images and maps. How can we think about the new ways of inviting readers, scholars, students and wider community to look at Black images and explore Black place? 
 
----
-
 At our materials for unders)long form illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
+---
+
+
+
 ## Black In the Pine Barrons
+
+The Pine Barrons are a contested landscape. The story about this region is told time and again through the disappearing of the ways indigenous and Black people stewarded, inhabited and called this place home. Instead, continuually retelling the story of small isolated pockets of white inhabitants. 
 
 .ve-media wc:The_Bug_Peek.jpg right
 
