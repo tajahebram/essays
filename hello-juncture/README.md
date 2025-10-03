@@ -26,6 +26,9 @@ Image controls are located in the top-left corner of the image and can be seen w
 .ve-map 39.9501159,-74.5162641 20 right  
 - 39.9501159,-74.5162641 "Pine Barrons"
 
+
+.ve-map 39.9501159,-74.5162641 20 right  
+
 .ve-map https://www.openstreetmap.org/relation/963138 
 
 
