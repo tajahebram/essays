@@ -1,6 +1,6 @@
 # Hello, Juncture & A Case of Black life in the Pine Barrons
 
-The Juncture essay is a great tool for developing digital and interactive digital essays, monographs and stories. YOu can incorporate a range of digital objects and sources including images, maps, videos and sound. And these materials can be manipulated and _________ within the story to make for a more dynamic expereince of analysis, close looking and this thing we call close reading. 
+The # Juncture # essay is a great tool for developing digital and interactive digital essays, monographs and stories. YOu can incorporate a range of digital objects and sources including images, maps, videos and sound. And these materials can be manipulated and _________ within the story to make for a more dynamic expereince of analysis, close looking and this thing we call close reading. 
 
 In Black studies, close reading always involves a critical reimagining of the conventional or accepted ways of looking at sources, and objects of cultural and historical record. How can we use juncture to look in ways that are rooted in critical context of Black life, existence and knowlede systems around the globe? Today we will focus on developing juncture stories that incoporate images and maps. How can we think about the new ways of inviting readers, scholars, students and wider community to look at Black images and explore Black place? 
 
