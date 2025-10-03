@@ -1,8 +1,14 @@
-# Hello, Juncture
+# Hello, Juncture & A Case of Black life in the Pine Barrons
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+The Juncture essay is a great tool for developing digital and interactive digital essays, monographs and stories. YOu can incorporate a range of digital objects and sources including images, maps, videos and sound. And these materials can be manipulated and _________ within the story to make for a more dynamic expereince of analysis, close looking and this thing we call close reading. 
 
-## Aulacophora indica
+In Black studies, close reading always involves a critical reimagining of the conventional or accepted ways of looking at sources, and objects of cultural and historical record. How can we use juncture to look in ways that are rooted in critical context of Black life, existence and knowlede systems around the globe? Today we will focus on developing juncture stories that incoporate images and maps. How can we think about the new ways of inviting readers, scholars, students and wider community to look at Black images and explore Black place? 
+
+---
+
+At our materials for unders)long form illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+
+## Black In the Pine Barrons
 
 .ve-media wc:The_Bug_Peek.jpg right
 
@@ -28,6 +34,7 @@ Image controls are located in the top-left corner of the image and can be seen w
 
 
 .ve-map 39.9501159,-74.5162641 20 right basemaps=USGS_USImageryTopo
+A topographical map of the Pinelands of NJ so we can view the points of elevation and other natural features of this dynamic landscape. These lands are made up of dense pine and oak trees that form a sandy tannin rich foreest floor. And there are vast waterways and 
 
 .ve-map https://www.openstreetmap.org/relation/963138 
 
