@@ -13,10 +13,10 @@ At our materials for unders)long form illustrates the use of a few Markdown form
 ## Black In the Pine Barrons
 
 The Pine Barrons are a contested landscape. The story about this region is told time and again through the disappearing of the ways indigenous and Black people stewarded, inhabited and called this place home. Instead, continuually retelling the story of small isolated pockets of white inhabitants. 
+.ve-media fit=cover 'https://www.loc.gov/item/afc1991023_206230/manifest.json' right
 
 .ve-media wc:The_Bug_Peek.jpg right
 
-.ve-media fit=cover 'https://www.loc.gov/item/afc1991023_206230/manifest.json' right
 
 
 
