@@ -27,7 +27,7 @@ Image controls are located in the top-left corner of the image and can be seen w
 - 39.9501159,-74.5162641 "Pine Barrons"
 
 
-.ve-map 39.9501159,-74.5162641 20 right  
+.ve-map 39.9501159,-74.5162641 20 right basemaps=USGS_USImageryTopo
 
 .ve-map https://www.openstreetmap.org/relation/963138 
 
